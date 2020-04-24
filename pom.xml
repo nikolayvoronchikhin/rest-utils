@@ -56,7 +56,6 @@
         <asynchttpclient.version>2.2.0</asynchttpclient.version>
         <guava.version>24.0-jre</guava.version>
         <checkstyle.suppressions.location>checkstyle/suppressions.xml</checkstyle.suppressions.location>
-        <revision>6.0.0-0</revision>
     </properties>
 
     <repositories>
